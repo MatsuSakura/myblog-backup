@@ -1,3 +1,4 @@
 *.css linguist-language=html
-*.html linguist-language=html
+*.md linguist-language=html
 *.js linguist-language=Vue
+*.json linguist-language=JavaScript
